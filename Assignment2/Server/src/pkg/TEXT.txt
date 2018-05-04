@@ -1,0 +1,6 @@
+Hello, how are you doing?
+    This is a demo text for file transfer !
+          Hope you could store these texts successfully.
+
+Thanks,
+See ya !
